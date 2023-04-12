@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="6e18d8c209062110c27691b85abb703f" sys_domain="global" table="sys_user" version="3" view="custom_portal_settings_x_159204_develop_0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_zone</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-04-08 05:04:14</sys_created_on>
+            <sys_id>ee18d8c2290621107eb4bba8791d6e40</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="6a18d8c235062110073bb00effa30140">6e18d8c209062110c27691b85abb703f</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-04-08 05:04:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-04-08 05:04:14</sys_created_on>
+            <sys_id>aa18d8c2070621105fae476c61e80c3f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="6a18d8c235062110073bb00effa30140">6e18d8c209062110c27691b85abb703f</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-04-08 05:04:14</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>preferred_language</element>
+            <position>2</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-04-08 05:04:14</sys_created_on>
+            <sys_id>2218d8c2e30621101daba535eb9eac40</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="6a18d8c235062110073bb00effa30140">6e18d8c209062110c27691b85abb703f</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-04-08 05:04:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>sys_user</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-04-08 05:04:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6e18d8c209062110c27691b85abb703f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_user</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope>
+            <sys_update_name>sys_ui_section_6e18d8c209062110c27691b85abb703f</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-04-08 05:04:14</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal settings (x_159204_develop_0)" name="custom_portal_settings_x_159204_develop_0">6a18d8c235062110073bb00effa30140</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</application>
+        <file_path/>
+        <instance_id>cf1f9ad1db6b3b040ae3ac44d49619c7</instance_id>
+        <instance_name>dev92608</instance_name>
+        <name>sys_ui_section_6e18d8c209062110c27691b85abb703f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="6e18d8c209062110c27691b85abb703f" sys_domain="global" table="sys_user" version="3" view="custom_portal_settings_x_159204_develop_0"><sys_ui_element action="INSERT_OR_UPDATE"><element>time_zone</element><position>0</position><sys_created_by>system</sys_created_by><sys_created_on>2023-04-08 05:04:14</sys_created_on><sys_id>ee18d8c2290621107eb4bba8791d6e40</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="6a18d8c235062110073bb00effa30140">6e18d8c209062110c27691b85abb703f</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-04-08 05:04:14</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by>system</sys_created_by><sys_created_on>2023-04-08 05:04:14</sys_created_on><sys_id>aa18d8c2070621105fae476c61e80c3f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="6a18d8c235062110073bb00effa30140">6e18d8c209062110c27691b85abb703f</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-04-08 05:04:14</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>preferred_language</element><position>2</position><sys_created_by>system</sys_created_by><sys_created_on>2023-04-08 05:04:14</sys_created_on><sys_id>2218d8c2e30621101daba535eb9eac40</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="6a18d8c235062110073bb00effa30140">6e18d8c209062110c27691b85abb703f</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-04-08 05:04:14</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>sys_user</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-04-08 05:04:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6e18d8c209062110c27691b85abb703f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sys_user</sys_name><sys_overrides/><sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package><sys_policy/><sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope><sys_update_name>sys_ui_section_6e18d8c209062110c27691b85abb703f</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-04-08 05:04:14</sys_updated_on><sys_user/><title>false</title><view display_value="Custom portal settings (x_159204_develop_0)" name="custom_portal_settings_x_159204_develop_0">6a18d8c235062110073bb00effa30140</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1152864513</payload_hash>
+        <record_name>User</record_name>
+        <reverted_from/>
+        <source>cdccc4112f312110f57ad5ea2799b60d</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-03-24 10:03:26</sys_created_on>
+        <sys_id>d1fa760e2f4e2110f57ad5ea2799b643</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1871312b5b00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Form Layout</type>
+        <update_guid>91fa760e534e21104080e3dbc2181f43</update_guid>
+        <update_guid_history>91fa760e534e21104080e3dbc2181f43:1152864513</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>nervoussow</sys_created_by>
+        <sys_created_on>2023-04-08 16:55:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>204b687c7a1e4eb88a20a032cc667d10</sys_id>
+        <sys_metadata>6e18d8c209062110c27691b85abb703f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_user</sys_name>
+        <sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package>
+        <sys_parent display_value="Sys User">00a50c3121120110a866589604c20d65</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope>
+        <sys_scope_delete display_value="">33b88579fa384fec9e487401ca5daaa4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_6e18d8c209062110c27691b85abb703f</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_6e18d8c209062110c27691b85abb703f">d1fa760e2f4e2110f57ad5ea2799b643</sys_update_version>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-04-08 16:55:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

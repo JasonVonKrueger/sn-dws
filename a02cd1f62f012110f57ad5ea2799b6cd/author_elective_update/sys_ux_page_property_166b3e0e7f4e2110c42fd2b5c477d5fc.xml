@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="Developer Workspace">8e6b3e0e2f4e2110f57ad5ea2799b6d6</page>
+        <required_translations>[ ]</required_translations>
+        <route display_value="Search Page">966b7e0e9d4e2110e2eef9e70df3781b</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-04-08 16:57:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>166b3e0e7f4e2110c42fd2b5c477d5fc</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope>
+        <sys_update_name>sys_ux_page_property_166b3e0e7f4e2110c42fd2b5c477d5fc</sys_update_name>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-04-09 04:27:35</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_159204_develop_0.8e6b3e0e2f4e2110f57ad5ea2799b6d6.route.chrome_header.966b7e0e9d4e2110e2eef9e70df3781b</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}&#13;
+</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=166b3e0e7f4e2110c42fd2b5c477d5fc"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</application>
+        <file_path/>
+        <instance_id>cf1f9ad1db6b3b040ae3ac44d49619c7</instance_id>
+        <instance_name>dev92608</instance_name>
+        <name>sys_ux_page_property_166b3e0e7f4e2110c42fd2b5c477d5fc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_header</name><page display_value="Developer Workspace">8e6b3e0e2f4e2110f57ad5ea2799b6d6</page><required_translations>[ ]</required_translations><route display_value="Search Page">966b7e0e9d4e2110e2eef9e70df3781b</route><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-04-08 16:57:43</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>166b3e0e7f4e2110c42fd2b5c477d5fc</sys_id><sys_mod_count>2</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package><sys_policy/><sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope><sys_update_name>sys_ux_page_property_166b3e0e7f4e2110c42fd2b5c477d5fc</sys_update_name><sys_updated_by>nervoussow</sys_updated_by><sys_updated_on>2023-04-09 04:27:35</sys_updated_on><type>json</type><unique_name>x_159204_develop_0.8e6b3e0e2f4e2110f57ad5ea2799b6d6.route.chrome_header.966b7e0e9d4e2110e2eef9e70df3781b</unique_name><value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}&#13;
+</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=166b3e0e7f4e2110c42fd2b5c477d5fc"/></record_update>]]></payload>
+        <payload_hash>-518550367</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source>a42cd1f62f012110f57ad5ea2799b6cf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>nervoussow</sys_created_by>
+        <sys_created_on>2023-04-09 04:27:35</sys_created_on>
+        <sys_id>9159151e2f866110f57ad5ea2799b65d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1876444fe090000001</sys_recorded_at>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-04-09 04:27:35</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>9959151e96866110de9dce4869b9525c</update_guid>
+        <update_guid_history>9959151e96866110de9dce4869b9525c:-518550367,1b399d1e8b866110f3051ce316697425:-1839031802,df39599a43866110868db10487d6645c:2120220137</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>nervoussow</sys_created_by>
+        <sys_created_on>2023-04-11 23:29:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>81c65c6eaaab41258c07a275339ea121</sys_id>
+        <sys_metadata>166b3e0e7f4e2110c42fd2b5c477d5fc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope>
+        <sys_scope_delete display_value="">33b88579fa384fec9e487401ca5daaa4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_166b3e0e7f4e2110c42fd2b5c477d5fc</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_166b3e0e7f4e2110c42fd2b5c477d5fc">9159151e2f866110f57ad5ea2799b65d</sys_update_version>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-04-11 23:29:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

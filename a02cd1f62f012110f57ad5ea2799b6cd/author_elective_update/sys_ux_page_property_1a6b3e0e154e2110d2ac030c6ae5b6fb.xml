@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_footer</name>
+        <page display_value="Developer Workspace">8e6b3e0e2f4e2110f57ad5ea2799b6d6</page>
+        <required_translations>[ ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-04-08 16:57:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1a6b3e0e154e2110d2ac030c6ae5b6fb</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope>
+        <sys_update_name>sys_ux_page_property_1a6b3e0e154e2110d2ac030c6ae5b6fb</sys_update_name>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-04-11 23:34:05</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_159204_develop_0.8e6b3e0e2f4e2110f57ad5ea2799b6d6.root.chrome_footer</unique_name>
+        <value>{"public_page":{"enable_footer_topbar":false,"footer_topbar_options":{"enable_logo":false,"enable_address":false,"enable_linkset_group":false,"max_linkset_count":0},"enable_footer_bar":true,"footer_bar_options":{"enable_links":true,"max_links_count":5,"enable_social_links":false,"max_social_links_count":7,"social_links":[],"enable_copyright_text":true,"copyright_text":"© 2020 Company Inc. All rights reserved."}}}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=1a6b3e0e154e2110d2ac030c6ae5b6fb"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</application>
+        <file_path/>
+        <instance_id>cf1f9ad1db6b3b040ae3ac44d49619c7</instance_id>
+        <instance_name>dev92608</instance_name>
+        <name>sys_ux_page_property_1a6b3e0e154e2110d2ac030c6ae5b6fb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_footer</name><page display_value="Developer Workspace">8e6b3e0e2f4e2110f57ad5ea2799b6d6</page><required_translations>[ ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-04-08 16:57:42</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1a6b3e0e154e2110d2ac030c6ae5b6fb</sys_id><sys_mod_count>3</sys_mod_count><sys_name>chrome_footer</sys_name><sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package><sys_policy/><sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope><sys_update_name>sys_ux_page_property_1a6b3e0e154e2110d2ac030c6ae5b6fb</sys_update_name><sys_updated_by>nervoussow</sys_updated_by><sys_updated_on>2023-04-11 23:34:05</sys_updated_on><type>json</type><unique_name>x_159204_develop_0.8e6b3e0e2f4e2110f57ad5ea2799b6d6.root.chrome_footer</unique_name><value>{"public_page":{"enable_footer_topbar":false,"footer_topbar_options":{"enable_logo":false,"enable_address":false,"enable_linkset_group":false,"max_linkset_count":0},"enable_footer_bar":true,"footer_bar_options":{"enable_links":true,"max_links_count":5,"enable_social_links":false,"max_social_links_count":7,"social_links":[],"enable_copyright_text":true,"copyright_text":"© 2020 Company Inc. All rights reserved."}}}</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=1a6b3e0e154e2110d2ac030c6ae5b6fb"/></record_update>]]></payload>
+        <payload_hash>-609461586</payload_hash>
+        <record_name>chrome_footer</record_name>
+        <reverted_from/>
+        <source>a42cd1f62f012110f57ad5ea2799b6cf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>nervoussow</sys_created_by>
+        <sys_created_on>2023-04-11 23:34:05</sys_created_on>
+        <sys_id>9be273072f0e2510f57ad5ea2799b6be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18772ab5c970000001</sys_recorded_at>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-04-11 23:34:05</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>93e27307ff0e2510ea6957fef5f0e5be</update_guid>
+        <update_guid_history>93e27307ff0e2510ea6957fef5f0e5be:-609461586,f6d27307080e2510a05cc5a6f8b1e7a3:-1811367181,0f8c768e1a4e211037a91eb5b2fccd95:-609461586,878c768e914e211027126af3b1a83794:1922422628</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>nervoussow</sys_created_by>
+        <sys_created_on>2023-04-11 23:34:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>2a7084fed0ea41e49fd945836926db64</sys_id>
+        <sys_metadata>1a6b3e0e154e2110d2ac030c6ae5b6fb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope>
+        <sys_scope_delete display_value="">33b88579fa384fec9e487401ca5daaa4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_1a6b3e0e154e2110d2ac030c6ae5b6fb</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_1a6b3e0e154e2110d2ac030c6ae5b6fb">9be273072f0e2510f57ad5ea2799b6be</sys_update_version>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-04-11 23:34:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

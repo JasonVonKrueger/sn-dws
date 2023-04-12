@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x_159204_develop_0_usc_update_set_matrix</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>nervoussow</sys_created_by>
+        <sys_created_on>2023-03-08 02:28:45</sys_created_on>
+        <sys_id>3c4b0cc02fa12110f57ad5ea2799b660</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_159204_develop_0_usc_update_set_matrix</sys_name>
+        <sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope>
+        <sys_update_name>sys_security_acl_3c4b0cc02fa12110f57ad5ea2799b660</sys_update_name>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-03-08 02:28:45</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</application>
+        <file_path/>
+        <instance_id>cf1f9ad1db6b3b040ae3ac44d49619c7</instance_id>
+        <instance_name>dev92608</instance_name>
+        <name>sys_security_acl_3c4b0cc02fa12110f57ad5ea2799b660</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>x_159204_develop_0_usc_update_set_matrix</name><operation display_value="write">write</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>nervoussow</sys_created_by><sys_created_on>2023-03-08 02:28:45</sys_created_on><sys_id>3c4b0cc02fa12110f57ad5ea2799b660</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_159204_develop_0_usc_update_set_matrix</sys_name><sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package><sys_policy/><sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope><sys_update_name>sys_security_acl_3c4b0cc02fa12110f57ad5ea2799b660</sys_update_name><sys_updated_by>nervoussow</sys_updated_by><sys_updated_on>2023-03-08 02:28:45</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-1525754494</payload_hash>
+        <record_name>x_159204_develop_0_usc_update_set_matrix</record_name>
+        <reverted_from/>
+        <source>a42cd1f62f012110f57ad5ea2799b6cf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>nervoussow</sys_created_by>
+        <sys_created_on>2023-03-08 02:28:45</sys_created_on>
+        <sys_id>304b0cc02fa12110f57ad5ea2799b663</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>186bf0cb2ac0000001</sys_recorded_at>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-03-08 02:28:45</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>744b0cc07ea121103347b74a4297a762</update_guid>
+        <update_guid_history>744b0cc07ea121103347b74a4297a762:-1525754494</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>nervoussow</sys_created_by>
+        <sys_created_on>2023-03-29 01:09:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>4513fec6a0864de097b7526666227ee4</sys_id>
+        <sys_metadata>3c4b0cc02fa12110f57ad5ea2799b660</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_159204_develop_0_usc_update_set_matrix</sys_name>
+        <sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package>
+        <sys_parent display_value="">6f3b88c02fa12110f57ad5ea2799b6f0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope>
+        <sys_scope_delete display_value="">33b88579fa384fec9e487401ca5daaa4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_3c4b0cc02fa12110f57ad5ea2799b660</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_3c4b0cc02fa12110f57ad5ea2799b660">304b0cc02fa12110f57ad5ea2799b663</sys_update_version>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-03-29 01:09:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

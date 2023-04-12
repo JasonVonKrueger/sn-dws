@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_menu</name>
+        <page display_value="Developer Workspace">43bbb7f3ad512110e09f6186f6a9fec0</page>
+        <required_translations>[ {
+  "message" : "Home",
+  "comment" : ""
+}, {
+  "message" : "IDE",
+  "comment" : ""
+}, {
+  "message" : "Work",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-04-08 05:04:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>de18d8c2c7062110b78847ef976e3416</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>chrome_menu</sys_name>
+        <sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope>
+        <sys_update_name>sys_ux_page_property_de18d8c2c7062110b78847ef976e3416</sys_update_name>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-04-08 16:41:53</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_159204_develop_0.43bbb7f3ad512110e09f6186f6a9fec0.root.chrome_menu</unique_name>
+        <value>[&#13;
+    {&#13;
+       "value":{&#13;
+          "label": {&#13;
+            "translatable":true, &#13;
+            "message":"Home"&#13;
+          }&#13;
+       }&#13;
+   },&#13;
+   {&#13;
+      "value":{&#13;
+         "label": {&#13;
+           "translatable":true, &#13;
+           "message":"IDE"&#13;
+         }&#13;
+      }&#13;
+  },&#13;
+  {&#13;
+   "value":{&#13;
+      "label": {&#13;
+        "translatable":true, &#13;
+        "message":"Work"&#13;
+      }&#13;
+   }&#13;
+}&#13;
+]&#13;
+     </value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=de18d8c2c7062110b78847ef976e3416"/>
+</record_update>

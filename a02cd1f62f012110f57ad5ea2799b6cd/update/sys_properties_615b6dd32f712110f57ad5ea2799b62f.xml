@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Set to true in order to use remote sources.  Usually development work will be done on a separate ServiceNow instance.  Setting this value to true will allow you to pull stories from your production environment.</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_159204_develop_0.use_remote_sources</name>
+        <read_roles/>
+        <suffix>use_remote_sources</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>nervoussow</sys_created_by>
+        <sys_created_on>2023-03-30 22:07:29</sys_created_on>
+        <sys_id>615b6dd32f712110f57ad5ea2799b62f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_159204_develop_0.use_remote_sources</sys_name>
+        <sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope>
+        <sys_update_name>sys_properties_615b6dd32f712110f57ad5ea2799b62f</sys_update_name>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-03-30 22:07:29</sys_updated_on>
+        <type>boolean</type>
+        <value>false</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=615b6dd32f712110f57ad5ea2799b62f"/>
+</record_update>

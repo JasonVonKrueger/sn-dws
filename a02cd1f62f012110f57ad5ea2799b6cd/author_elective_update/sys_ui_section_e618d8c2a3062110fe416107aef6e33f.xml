@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="e618d8c2a3062110fe416107aef6e33f" sys_domain="global" table="sysapproval_approver" version="3" view="custom_portal_approval_x_159204_develop_0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-04-08 05:04:08</sys_created_on>
+            <sys_id>2e18d8c2db062110efe8a3600845df40</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="e218d8c2480621104a5dba007c654140">e618d8c2a3062110fe416107aef6e33f</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-04-08 05:04:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sysapproval</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-04-08 05:04:08</sys_created_on>
+            <sys_id>ea18d8c29e062110ef1f5f748f65cf3e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="e218d8c2480621104a5dba007c654140">e618d8c2a3062110fe416107aef6e33f</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-04-08 05:04:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>sysapproval_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-04-08 05:04:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e618d8c2a3062110fe416107aef6e33f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sysapproval_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope>
+            <sys_update_name>sys_ui_section_e618d8c2a3062110fe416107aef6e33f</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-04-08 05:04:08</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal (x_159204_develop_0)" name="custom_portal_approval_x_159204_develop_0">e218d8c2480621104a5dba007c654140</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</application>
+        <file_path/>
+        <instance_id>cf1f9ad1db6b3b040ae3ac44d49619c7</instance_id>
+        <instance_name>dev92608</instance_name>
+        <name>sys_ui_section_e618d8c2a3062110fe416107aef6e33f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="e618d8c2a3062110fe416107aef6e33f" sys_domain="global" table="sysapproval_approver" version="3" view="custom_portal_approval_x_159204_develop_0"><sys_ui_element action="INSERT_OR_UPDATE"><element>comments</element><position>0</position><sys_created_by>system</sys_created_by><sys_created_on>2023-04-08 05:04:08</sys_created_on><sys_id>2e18d8c2db062110efe8a3600845df40</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="e218d8c2480621104a5dba007c654140">e618d8c2a3062110fe416107aef6e33f</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-04-08 05:04:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sysapproval</element><position>1</position><sys_created_by>system</sys_created_by><sys_created_on>2023-04-08 05:04:08</sys_created_on><sys_id>ea18d8c29e062110ef1f5f748f65cf3e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="e218d8c2480621104a5dba007c654140">e618d8c2a3062110fe416107aef6e33f</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-04-08 05:04:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>sysapproval_approver</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-04-08 05:04:08</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e618d8c2a3062110fe416107aef6e33f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sysapproval_approver</sys_name><sys_overrides/><sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package><sys_policy/><sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope><sys_update_name>sys_ui_section_e618d8c2a3062110fe416107aef6e33f</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-04-08 05:04:08</sys_updated_on><sys_user/><title>false</title><view display_value="Custom portal (x_159204_develop_0)" name="custom_portal_approval_x_159204_develop_0">e218d8c2480621104a5dba007c654140</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-536005136</payload_hash>
+        <record_name>Approval</record_name>
+        <reverted_from/>
+        <source>cdccc4112f312110f57ad5ea2799b60d</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-03-24 10:03:26</sys_created_on>
+        <sys_id>9c0bfeca2f4e2110f57ad5ea2799b6e5</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1871312b5b00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Form Layout</type>
+        <update_guid>5c0bfeca744e21104ae13bbdd749cfe5</update_guid>
+        <update_guid_history>5c0bfeca744e21104ae13bbdd749cfe5:-536005136</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>nervoussow</sys_created_by>
+        <sys_created_on>2023-04-08 16:55:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>02b9e9894bb940068010aaeb7e252e64</sys_id>
+        <sys_metadata>e618d8c2a3062110fe416107aef6e33f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sysapproval_approver</sys_name>
+        <sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package>
+        <sys_parent display_value="Sysapproval Approver">1568887121920110a866589604c20d5c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope>
+        <sys_scope_delete display_value="">33b88579fa384fec9e487401ca5daaa4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_e618d8c2a3062110fe416107aef6e33f</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_e618d8c2a3062110fe416107aef6e33f">9c0bfeca2f4e2110f57ad5ea2799b6e5</sys_update_version>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-04-08 16:55:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

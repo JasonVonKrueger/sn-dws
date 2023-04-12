@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_159204_develop_0_code_review" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_159204_develop_0_code_review</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>nervoussow</sys_created_by>
+            <sys_created_on>2023-03-08 00:56:35</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope>
+            <sys_update_name>sys_choice_x_159204_develop_0_code_review_state</sys_update_name>
+            <sys_updated_by>nervoussow</sys_updated_by>
+            <sys_updated_on>2023-03-08 00:56:35</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Draft</label>
+            <language>en</language>
+            <name>x_159204_develop_0_code_review</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>nervoussow</sys_created_by>
+            <sys_created_on>2023-03-08 00:56:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nervoussow</sys_updated_by>
+            <sys_updated_on>2023-03-08 00:56:35</sys_updated_on>
+            <value>draft</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ready</label>
+            <language>en</language>
+            <name>x_159204_develop_0_code_review</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>nervoussow</sys_created_by>
+            <sys_created_on>2023-03-08 00:56:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nervoussow</sys_updated_by>
+            <sys_updated_on>2023-03-08 00:56:35</sys_updated_on>
+            <value>ready</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Review requested</label>
+            <language>en</language>
+            <name>x_159204_develop_0_code_review</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>nervoussow</sys_created_by>
+            <sys_created_on>2023-03-08 00:56:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nervoussow</sys_updated_by>
+            <sys_updated_on>2023-03-08 00:56:35</sys_updated_on>
+            <value>review_requested</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Under review</label>
+            <language>en</language>
+            <name>x_159204_develop_0_code_review</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>nervoussow</sys_created_by>
+            <sys_created_on>2023-03-08 00:56:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nervoussow</sys_updated_by>
+            <sys_updated_on>2023-03-08 00:56:35</sys_updated_on>
+            <value>under_review</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Approved</label>
+            <language>en</language>
+            <name>x_159204_develop_0_code_review</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>nervoussow</sys_created_by>
+            <sys_created_on>2023-03-08 00:56:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nervoussow</sys_updated_by>
+            <sys_updated_on>2023-03-08 00:56:35</sys_updated_on>
+            <value>approved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Rejected</label>
+            <language>en</language>
+            <name>x_159204_develop_0_code_review</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>nervoussow</sys_created_by>
+            <sys_created_on>2023-03-08 00:56:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nervoussow</sys_updated_by>
+            <sys_updated_on>2023-03-08 00:56:35</sys_updated_on>
+            <value>rejected</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

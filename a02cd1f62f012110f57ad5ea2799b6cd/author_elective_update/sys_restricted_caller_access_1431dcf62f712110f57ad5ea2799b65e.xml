@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access">
+    <sys_restricted_caller_access action="DELETE">
+        <description/>
+        <operation>create</operation>
+        <rca_type>real_rca</rca_type>
+        <source/>
+        <source_scope display_value="Global">global</source_scope>
+        <source_table/>
+        <source_type>5</source_type>
+        <status>2</status>
+        <sys_class_name>sys_restricted_caller_access</sys_class_name>
+        <sys_created_by>nervoussow</sys_created_by>
+        <sys_created_on>2023-03-29 02:14:16</sys_created_on>
+        <sys_id>1431dcf62f712110f57ad5ea2799b65e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>global</sys_name>
+        <sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope>
+        <sys_update_name>sys_restricted_caller_access_1431dcf62f712110f57ad5ea2799b65e</sys_update_name>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-03-29 02:18:46</sys_updated_on>
+        <target name="sys_update_set" target_table="sys_db_object">4e85043121120110a866589604c20d3f</target>
+        <target_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</target_scope>
+        <target_table>sys_db_object</target_table>
+        <target_type>1</target_type>
+    </sys_restricted_caller_access>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</application>
+        <file_path/>
+        <instance_id>cf1f9ad1db6b3b040ae3ac44d49619c7</instance_id>
+        <instance_name>dev92608</instance_name>
+        <name>sys_restricted_caller_access_1431dcf62f712110f57ad5ea2799b65e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access"><sys_restricted_caller_access action="INSERT_OR_UPDATE"><description/><operation>create</operation><rca_type>real_rca</rca_type><source/><source_scope display_value="Global">global</source_scope><source_table/><source_type>5</source_type><status>2</status><sys_class_name>sys_restricted_caller_access</sys_class_name><sys_created_by>nervoussow</sys_created_by><sys_created_on>2023-03-29 02:14:16</sys_created_on><sys_id>1431dcf62f712110f57ad5ea2799b65e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>global</sys_name><sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package><sys_policy/><sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope><sys_update_name>sys_restricted_caller_access_1431dcf62f712110f57ad5ea2799b65e</sys_update_name><sys_updated_by>nervoussow</sys_updated_by><sys_updated_on>2023-03-29 02:18:46</sys_updated_on><target name="sys_update_set" target_table="sys_db_object">4e85043121120110a866589604c20d3f</target><target_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</target_scope><target_table>sys_db_object</target_table><target_type>1</target_type></sys_restricted_caller_access></record_update>]]></payload>
+        <payload_hash>470165566</payload_hash>
+        <record_name>global</record_name>
+        <reverted_from/>
+        <source>a42cd1f62f012110f57ad5ea2799b6cf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>nervoussow</sys_created_by>
+        <sys_created_on>2023-03-29 02:18:46</sys_created_on>
+        <sys_id>cb525c3a2f712110f57ad5ea2799b61c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1872b2919cd0000001</sys_recorded_at>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-03-29 02:18:46</sys_updated_on>
+        <type>Restricted Caller Access Privilege</type>
+        <update_guid>c3525c3a5f712110d019b494bf520f1c</update_guid>
+        <update_guid_history>c3525c3a5f712110d019b494bf520f1c:470165566,d5515c3a94712110f47dbac52e803b4e:1139569361</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>nervoussow</sys_created_by>
+        <sys_created_on>2023-03-29 02:21:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_restricted_caller_access">sys_restricted_caller_access</sys_db_object>
+        <sys_id>67b150cabf0f45b3951405e5a60143c1</sys_id>
+        <sys_metadata>1431dcf62f712110f57ad5ea2799b65e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global</sys_name>
+        <sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope>
+        <sys_scope_delete display_value="">33b88579fa384fec9e487401ca5daaa4</sys_scope_delete>
+        <sys_update_name>sys_restricted_caller_access_1431dcf62f712110f57ad5ea2799b65e</sys_update_name>
+        <sys_update_version display_value="sys_restricted_caller_access_1431dcf62f712110f57ad5ea2799b65e">cb525c3a2f712110f57ad5ea2799b61c</sys_update_version>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-03-29 02:21:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

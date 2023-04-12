@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Landing Page">5e6b7e0ef94e2110d83d1f21d47f7123</macroponent>
+        <name>On search </name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({
+    api,
+    event,
+    helpers,
+    imports
+}) {
+
+    const {
+        searchContextConfigId,
+        searchTerm
+    } = event.payload;
+    
+    api.emit('NAV_ITEM_SELECTED', {
+        route: "search",
+        fields: {
+            searchContextConfigId
+        },
+        params: {
+            searchTerm
+        }
+    });
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-04-08 16:57:41</sys_created_on>
+        <sys_id>526b7e0e324e2110c4e88fe78cb0b517</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>On search</sys_name>
+        <sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope>
+        <sys_update_name>sys_ux_client_script_526b7e0e324e2110c4e88fe78cb0b517</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-04-08 16:57:41</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

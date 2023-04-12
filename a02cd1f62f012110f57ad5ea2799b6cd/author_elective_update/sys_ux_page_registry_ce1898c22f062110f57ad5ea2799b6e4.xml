@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>c21898c22f062110f57ad5ea2799b6e5</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes>{"login":"login","logout": "login"}</auth_routes>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>devwork</path>
+        <root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-04-08 05:04:13</sys_created_on>
+        <sys_id>ce1898c22f062110f57ad5ea2799b6e4</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Developer Workspace</sys_name>
+        <sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope>
+        <sys_update_name>sys_ux_page_registry_ce1898c22f062110f57ad5ea2799b6e4</sys_update_name>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-04-08 16:11:28</sys_updated_on>
+        <title>Developer Workspace</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</application>
+        <file_path/>
+        <instance_id>cf1f9ad1db6b3b040ae3ac44d49619c7</instance_id>
+        <instance_name>dev92608</instance_name>
+        <name>sys_ux_page_registry_ce1898c22f062110f57ad5ea2799b6e4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>c21898c22f062110f57ad5ea2799b6e5</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes>{"login":"login","logout": "login"}</auth_routes><page/><parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app><path>devwork</path><root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-04-08 05:04:13</sys_created_on><sys_id>ce1898c22f062110f57ad5ea2799b6e4</sys_id><sys_mod_count>4</sys_mod_count><sys_name>Developer Workspace</sys_name><sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package><sys_policy/><sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope><sys_update_name>sys_ux_page_registry_ce1898c22f062110f57ad5ea2799b6e4</sys_update_name><sys_updated_by>nervoussow</sys_updated_by><sys_updated_on>2023-04-08 16:11:28</sys_updated_on><title>Developer Workspace</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>-733579499</payload_hash>
+        <record_name>Developer Workspace</record_name>
+        <reverted_from/>
+        <source>a42cd1f62f012110f57ad5ea2799b6cf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>nervoussow</sys_created_by>
+        <sys_created_on>2023-04-08 16:11:28</sys_created_on>
+        <sys_id>96d03e422f4e2110f57ad5ea2799b6c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18761a30bfe0000001</sys_recorded_at>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-04-08 16:11:28</sys_updated_on>
+        <type>UX Application</type>
+        <update_guid>9ed03e42054e211021f2ffd251cb16c2</update_guid>
+        <update_guid_history>9ed03e42054e211021f2ffd251cb16c2:-733579499,e5c03282a54e2110683878481ec854dc:-431949215,64ef2a02024e2110cc9bfb673ab633a5:-733579499,b09f6a02094e2110200e512528011369:-1609710022,389f6a02614e2110f745c43c8e528167:195507723</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>nervoussow</sys_created_by>
+        <sys_created_on>2023-04-08 16:54:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>bec93144bc1640acbebce53d918b8744</sys_id>
+        <sys_metadata>ce1898c22f062110f57ad5ea2799b6e4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Developer Workspace</sys_name>
+        <sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope>
+        <sys_scope_delete display_value="">33b88579fa384fec9e487401ca5daaa4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_ce1898c22f062110f57ad5ea2799b6e4</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_ce1898c22f062110f57ad5ea2799b6e4">96d03e422f4e2110f57ad5ea2799b6c3</sys_update_version>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-04-08 16:54:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

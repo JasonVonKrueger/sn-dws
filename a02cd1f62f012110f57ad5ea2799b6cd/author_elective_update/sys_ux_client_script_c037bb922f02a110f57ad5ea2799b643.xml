@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="DELETE">
+        <includes/>
+        <macroponent display_value="Default">a71f99922fc66110f57ad5ea2799b6b3</macroponent>
+        <name>content_tree_1/items</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+  * @param {params} params
+  * @param {api} params.api
+  * @param {TransformApiHelpers} params.helpers
+  */
+function evaluateProperty({api, helpers}) {
+	return 'fred';
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>nervoussow</sys_created_by>
+        <sys_created_on>2023-04-09 15:57:16</sys_created_on>
+        <sys_id>c037bb922f02a110f57ad5ea2799b643</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>content_tree_1/items</sys_name>
+        <sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope>
+        <sys_update_name>sys_ux_client_script_c037bb922f02a110f57ad5ea2799b643</sys_update_name>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-04-09 15:57:16</sys_updated_on>
+        <target>macroponent</target>
+        <type>transform</type>
+    </sys_ux_client_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</application>
+        <file_path/>
+        <instance_id>cf1f9ad1db6b3b040ae3ac44d49619c7</instance_id>
+        <instance_name>dev92608</instance_name>
+        <name>sys_ux_client_script_c037bb922f02a110f57ad5ea2799b643</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ux_client_script"&gt;&lt;sys_ux_client_script action="INSERT_OR_UPDATE"&gt;&lt;includes/&gt;&lt;macroponent display_value="Default"&gt;a71f99922fc66110f57ad5ea2799b6b3&lt;/macroponent&gt;&lt;name&gt;content_tree_1/items&lt;/name&gt;&lt;preset/&gt;&lt;required_translations&gt;[ ]&lt;/required_translations&gt;&lt;script&gt;&lt;![CDATA[/**
+  * @param {params} params
+  * @param {api} params.api
+  * @param {TransformApiHelpers} params.helpers
+  */
+function evaluateProperty({api, helpers}) {
+	return 'fred';
+}]]&gt;&lt;/script&gt;&lt;script_api_version&gt;2.0.0&lt;/script_api_version&gt;&lt;sys_class_name&gt;sys_ux_client_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;nervoussow&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-04-09 15:57:16&lt;/sys_created_on&gt;&lt;sys_id&gt;c037bb922f02a110f57ad5ea2799b643&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;content_tree_1/items&lt;/sys_name&gt;&lt;sys_package display_value="Developer Workspace" source="x_159204_develop_0"&gt;a02cd1f62f012110f57ad5ea2799b6cd&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Developer Workspace"&gt;a02cd1f62f012110f57ad5ea2799b6cd&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ux_client_script_c037bb922f02a110f57ad5ea2799b643&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;nervoussow&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-04-09 15:57:16&lt;/sys_updated_on&gt;&lt;target&gt;macroponent&lt;/target&gt;&lt;type&gt;transform&lt;/type&gt;&lt;/sys_ux_client_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1909718176</payload_hash>
+        <record_name>content_tree_1/items</record_name>
+        <reverted_from/>
+        <source>a42cd1f62f012110f57ad5ea2799b6cf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>nervoussow</sys_created_by>
+        <sys_created_on>2023-04-09 15:57:16</sys_created_on>
+        <sys_id>cc37bb922f02a110f57ad5ea2799b646</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18766bc69930000001</sys_recorded_at>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-04-09 15:57:16</sys_updated_on>
+        <type>UX Client Script</type>
+        <update_guid>4437bb92a502a11068fc198a746f3b46</update_guid>
+        <update_guid_history>4437bb92a502a11068fc198a746f3b46:-1909718176</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>nervoussow</sys_created_by>
+        <sys_created_on>2023-04-09 16:00:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_client_script">sys_ux_client_script</sys_db_object>
+        <sys_id>090e42cd3c0445858089d73d582a1069</sys_id>
+        <sys_metadata>c037bb922f02a110f57ad5ea2799b643</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>content_tree_1/items</sys_name>
+        <sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope>
+        <sys_scope_delete display_value="">33b88579fa384fec9e487401ca5daaa4</sys_scope_delete>
+        <sys_update_name>sys_ux_client_script_c037bb922f02a110f57ad5ea2799b643</sys_update_name>
+        <sys_update_version display_value="sys_ux_client_script_c037bb922f02a110f57ad5ea2799b643">cc37bb922f02a110f57ad5ea2799b646</sys_update_version>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-04-09 16:00:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

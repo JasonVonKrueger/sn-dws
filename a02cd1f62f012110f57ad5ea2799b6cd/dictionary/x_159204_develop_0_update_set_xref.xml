@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="22f0c83a2f312110f57ad5ea2799b632" label="Update Set XRef" max_length="40" name="x_159204_develop_0_update_set_xref" type="collection">
+        <element label="Committed to PROD" max_length="40" name="committed_to_prod" type="boolean"/>
+        <element label="Committed to QA" max_length="40" name="committed_to_qa" type="boolean"/>
+        <element label="Committed to UAT" max_length="40" name="committed_to_uat" type="boolean"/>
+        <element label="Update set" max_length="40" name="update_set" reference="sys_update_set" type="reference"/>
+        <element label="Update set collection" max_length="40" name="update_set_collection" reference="x_159204_develop_0_update_set_collection" reference_floats="true" type="reference"/>
+    </element>
+</database>

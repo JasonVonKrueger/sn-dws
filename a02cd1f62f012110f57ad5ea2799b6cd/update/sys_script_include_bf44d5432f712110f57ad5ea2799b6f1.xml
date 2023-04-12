@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_159204_develop_0.UpdateSetCollectionHelper</api_name>
+        <caller_access>2</caller_access>
+        <client_callable>true</client_callable>
+        <description>Library of functions for Update Set Collections.</description>
+        <name>UpdateSetCollectionHelper</name>
+        <script><![CDATA[var UpdateSetCollectionHelper = Class.create();
+UpdateSetCollectionHelper.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+	
+	fetchLocalStory: function() {
+		var source = this.getParameter('sysparm_source');
+
+		var gr = new GlideRecord('rm_story');
+		if (gr.get('number', source)) {
+			var response = {
+				short_description: gr.getValue('short_description'),
+				description: gr.getValue('description'),
+				sys_id: gr.getValue('sys_id')
+			};
+			
+			return JSON.stringify(response);
+		}
+		
+		return JSON.stringify({ error_msg: 'Source not found.' });
+	},
+	
+	fetchRemoteStory: function() {
+		
+	},
+	
+	readyForNewUpdateSet: function(__name) {
+		const name = __name || this.getParameter('sysparm_usc_name');
+		const upset = new GlideRecord('sys_update_set');
+		upset.addQuery('name', 'STARTSWITH', name);
+		upset.addQuery('state', 'in progress');
+		upset.query();
+		
+		if (upset.hasNext()) {
+			return false;
+		}
+		
+		return true;
+	},
+
+	type: 'UpdateSetCollectionHelper'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>nervoussow</sys_created_by>
+        <sys_created_on>2023-03-30 01:46:16</sys_created_on>
+        <sys_id>bf44d5432f712110f57ad5ea2799b6f1</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>UpdateSetCollectionHelper</sys_name>
+        <sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope>
+        <sys_update_name>sys_script_include_bf44d5432f712110f57ad5ea2799b6f1</sys_update_name>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-03-30 22:31:29</sys_updated_on>
+    </sys_script_include>
+</record_update>

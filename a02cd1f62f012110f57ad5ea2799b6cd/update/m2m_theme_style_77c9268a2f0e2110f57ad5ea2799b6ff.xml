@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_theme_style">
+    <m2m_theme_style action="INSERT_OR_UPDATE">
+        <applicability display_value="Public">6e18d8c2f1062110bdc83881ddcce29e</applicability>
+        <order>0</order>
+        <style display_value="Dark">e09ef7ae07103010e03948f78ad3002c</style>
+        <sys_class_name>m2m_theme_style</sys_class_name>
+        <sys_created_by>nervoussow</sys_created_by>
+        <sys_created_on>2023-04-08 15:41:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>77c9268a2f0e2110f57ad5ea2799b6ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope>
+        <sys_update_name>m2m_theme_style_77c9268a2f0e2110f57ad5ea2799b6ff</sys_update_name>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-04-08 15:41:52</sys_updated_on>
+        <theme display_value="Developer Workspace - Dark">32b9ae8a2f0e2110f57ad5ea2799b6d9</theme>
+    </m2m_theme_style>
+</record_update>

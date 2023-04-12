@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1b4b9b142fdd6510f57ad5ea2799b6f3" label="Update Set Collection" max_length="40" name="x_159204_develop_0_update_set_collection" text_index="true" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Description" max_length="1600" name="description" type="string"/>
+        <element display="true" label="Name" max_length="80" name="name" type="string" unique="true"/>
+        <element default="javascript:gs.getUserID()" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Primary developer" max_length="32" name="primary_developer" reference="sys_user" type="reference" use_dynamic_default="true"/>
+        <element label="Source" max_length="40" name="source" type="string"/>
+        <element label="Source URL" max_length="40" name="source_url" type="url"/>
+        <index name="index" unique="true">
+            <element name="name"/>
+        </index>
+        <index name="index2">
+            <element name="primary_developer"/>
+        </index>
+    </element>
+</database>

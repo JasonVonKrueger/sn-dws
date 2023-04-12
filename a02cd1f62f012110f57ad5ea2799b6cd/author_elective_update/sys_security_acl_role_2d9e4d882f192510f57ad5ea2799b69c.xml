@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>nervoussow</sys_created_by>
+        <sys_created_on>2023-02-23 21:07:12</sys_created_on>
+        <sys_id>2d9e4d882f192510f57ad5ea2799b69c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_159204_develop_0_update_set_collections.x_159204_develop_0.user</sys_name>
+        <sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope>
+        <sys_security_acl display_value="x_159204_develop_0_update_set_collections">619e4d882f192510f57ad5ea2799b69a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2d9e4d882f192510f57ad5ea2799b69c</sys_update_name>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-02-23 21:07:12</sys_updated_on>
+        <sys_user_role display_value="x_159204_develop_0.user" name="x_159204_develop_0.user">f42cd1f62f012110f57ad5ea2799b6fc</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</application>
+        <file_path/>
+        <instance_id>cf1f9ad1db6b3b040ae3ac44d49619c7</instance_id>
+        <instance_name>dev92608</instance_name>
+        <name>sys_security_acl_role_2d9e4d882f192510f57ad5ea2799b69c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>nervoussow</sys_created_by><sys_created_on>2023-02-23 21:07:12</sys_created_on><sys_id>2d9e4d882f192510f57ad5ea2799b69c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_159204_develop_0_update_set_collections.x_159204_develop_0.user</sys_name><sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package><sys_policy/><sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope><sys_security_acl display_value="x_159204_develop_0_update_set_collections">619e4d882f192510f57ad5ea2799b69a</sys_security_acl><sys_update_name>sys_security_acl_role_2d9e4d882f192510f57ad5ea2799b69c</sys_update_name><sys_updated_by>nervoussow</sys_updated_by><sys_updated_on>2023-02-23 21:07:12</sys_updated_on><sys_user_role display_value="x_159204_develop_0.user" name="x_159204_develop_0.user">f42cd1f62f012110f57ad5ea2799b6fc</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1632745762</payload_hash>
+        <record_name>x_159204_develop_0_update_set_collections.x_159204_develop_0.user</record_name>
+        <reverted_from/>
+        <source>a42cd1f62f012110f57ad5ea2799b6cf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>nervoussow</sys_created_by>
+        <sys_created_on>2023-02-23 21:07:12</sys_created_on>
+        <sys_id>619e4d882f192510f57ad5ea2799b69f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1868019ffb90000001</sys_recorded_at>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-02-23 21:07:12</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>a59e4d8860192510d66ce9a7f22cfe9e</update_guid>
+        <update_guid_history>a59e4d8860192510d66ce9a7f22cfe9e:-1632745762</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_159204_develop_0_update_set_collections.x_159204_develop_0.user">c9da93142fdd6510f57ad5ea2799b6af</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>nervoussow</sys_created_by>
+        <sys_created_on>2023-02-25 01:58:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>4b5615e5f06e41d09ad0932644e773e9</sys_id>
+        <sys_metadata>2d9e4d882f192510f57ad5ea2799b69c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_159204_develop_0_update_set_collections.x_159204_develop_0.user</sys_name>
+        <sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package>
+        <sys_parent display_value="">619e4d882f192510f57ad5ea2799b69a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope>
+        <sys_scope_delete display_value="">33b88579fa384fec9e487401ca5daaa4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_2d9e4d882f192510f57ad5ea2799b69c</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_2d9e4d882f192510f57ad5ea2799b69c">619e4d882f192510f57ad5ea2799b69f</sys_update_version>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-02-25 01:58:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

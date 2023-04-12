@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_toolbar</name>
+        <page display_value="Developer Workspace">ce1898c22f062110f57ad5ea2799b6e4</page>
+        <required_translations>[ ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>nervoussow</sys_created_by>
+        <sys_created_on>2023-04-08 05:34:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>ba0f908a2f062110f57ad5ea2799b614</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_toolbar</sys_name>
+        <sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope>
+        <sys_update_name>sys_ux_page_property_ba0f908a2f062110f57ad5ea2799b614</sys_update_name>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-04-08 05:34:26</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_159204_develop_0.ce1898c22f062110f57ad5ea2799b6e4.root.chrome_toolbar</unique_name>
+        <value>[]</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=ba0f908a2f062110f57ad5ea2799b614"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</application>
+        <file_path/>
+        <instance_id>cf1f9ad1db6b3b040ae3ac44d49619c7</instance_id>
+        <instance_name>dev92608</instance_name>
+        <name>sys_ux_page_property_ba0f908a2f062110f57ad5ea2799b614</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_toolbar</name><page display_value="Developer Workspace">ce1898c22f062110f57ad5ea2799b6e4</page><required_translations>[ ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>nervoussow</sys_created_by><sys_created_on>2023-04-08 05:34:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>ba0f908a2f062110f57ad5ea2799b614</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_toolbar</sys_name><sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package><sys_policy/><sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope><sys_update_name>sys_ux_page_property_ba0f908a2f062110f57ad5ea2799b614</sys_update_name><sys_updated_by>nervoussow</sys_updated_by><sys_updated_on>2023-04-08 05:34:26</sys_updated_on><type>json</type><unique_name>x_159204_develop_0.ce1898c22f062110f57ad5ea2799b6e4.root.chrome_toolbar</unique_name><value>[]</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=ba0f908a2f062110f57ad5ea2799b614"/></record_update>]]></payload>
+        <payload_hash>-575877919</payload_hash>
+        <record_name>chrome_toolbar</record_name>
+        <reverted_from/>
+        <source>a42cd1f62f012110f57ad5ea2799b6cf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>nervoussow</sys_created_by>
+        <sys_created_on>2023-04-08 05:34:26</sys_created_on>
+        <sys_id>b60f5c8a2f062110f57ad5ea2799b62a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1875f5bd62f0000001</sys_recorded_at>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-04-08 05:34:26</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>fa0f5c8af8062110f0cb0d060bc76b29</update_guid>
+        <update_guid_history>fa0f5c8af8062110f0cb0d060bc76b29:-575877919</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>nervoussow</sys_created_by>
+        <sys_created_on>2023-04-08 16:54:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>74eae3920c5547c0bd57a0f56a0bc900</sys_id>
+        <sys_metadata>ba0f908a2f062110f57ad5ea2799b614</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_toolbar</sys_name>
+        <sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope>
+        <sys_scope_delete display_value="">33b88579fa384fec9e487401ca5daaa4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_ba0f908a2f062110f57ad5ea2799b614</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_ba0f908a2f062110f57ad5ea2799b614">b60f5c8a2f062110f57ad5ea2799b62a</sys_update_version>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-04-08 16:54:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

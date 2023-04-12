@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category">
+    <sys_ux_registry_m2m_category action="DELETE">
+        <experience_category display_value="Workspace">afb4e3e173322010f0ca1e666bf6a726</experience_category>
+        <page_registry display_value="Developer Workspace">ce1898c22f062110f57ad5ea2799b6e4</page_registry>
+        <sys_class_name>sys_ux_registry_m2m_category</sys_class_name>
+        <sys_created_by>nervoussow</sys_created_by>
+        <sys_created_on>2023-04-08 16:08:49</sys_created_on>
+        <sys_id>3430fa422f4e2110f57ad5ea2799b6e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope>
+        <sys_update_name>sys_ux_registry_m2m_category_3430fa422f4e2110f57ad5ea2799b6e7</sys_update_name>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-04-08 16:08:49</sys_updated_on>
+    </sys_ux_registry_m2m_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</application>
+        <file_path/>
+        <instance_id>cf1f9ad1db6b3b040ae3ac44d49619c7</instance_id>
+        <instance_name>dev92608</instance_name>
+        <name>sys_ux_registry_m2m_category_3430fa422f4e2110f57ad5ea2799b6e7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category"><sys_ux_registry_m2m_category action="INSERT_OR_UPDATE"><experience_category display_value="Workspace">afb4e3e173322010f0ca1e666bf6a726</experience_category><page_registry display_value="Developer Workspace">ce1898c22f062110f57ad5ea2799b6e4</page_registry><sys_class_name>sys_ux_registry_m2m_category</sys_class_name><sys_created_by>nervoussow</sys_created_by><sys_created_on>2023-04-08 16:08:49</sys_created_on><sys_id>3430fa422f4e2110f57ad5ea2799b6e7</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package><sys_policy/><sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope><sys_update_name>sys_ux_registry_m2m_category_3430fa422f4e2110f57ad5ea2799b6e7</sys_update_name><sys_updated_by>nervoussow</sys_updated_by><sys_updated_on>2023-04-08 16:08:49</sys_updated_on></sys_ux_registry_m2m_category></record_update>]]></payload>
+        <payload_hash>1096539805</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>a42cd1f62f012110f57ad5ea2799b6cf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>nervoussow</sys_created_by>
+        <sys_created_on>2023-04-08 16:08:50</sys_created_on>
+        <sys_id>fb303e422f4e2110f57ad5ea2799b6ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18761a0a2dc0000001</sys_recorded_at>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-04-08 16:08:50</sys_updated_on>
+        <type>UX Application Category M2M</type>
+        <update_guid>33303e42674e21100838d3f9407447ba</update_guid>
+        <update_guid_history>33303e42674e21100838d3f9407447ba:1096539805</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>nervoussow</sys_created_by>
+        <sys_created_on>2023-04-08 16:54:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_registry_m2m_category">sys_ux_registry_m2m_category</sys_db_object>
+        <sys_id>04c792cf9c714d4886d1345f1e6f8440</sys_id>
+        <sys_metadata>3430fa422f4e2110f57ad5ea2799b6e7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Developer Workspace" source="x_159204_develop_0">a02cd1f62f012110f57ad5ea2799b6cd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Developer Workspace">a02cd1f62f012110f57ad5ea2799b6cd</sys_scope>
+        <sys_scope_delete display_value="">33b88579fa384fec9e487401ca5daaa4</sys_scope_delete>
+        <sys_update_name>sys_ux_registry_m2m_category_3430fa422f4e2110f57ad5ea2799b6e7</sys_update_name>
+        <sys_update_version display_value="sys_ux_registry_m2m_category_3430fa422f4e2110f57ad5ea2799b6e7">fb303e422f4e2110f57ad5ea2799b6ba</sys_update_version>
+        <sys_updated_by>nervoussow</sys_updated_by>
+        <sys_updated_on>2023-04-08 16:54:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
